@@ -1,0 +1,17 @@
+{
+  "Backend Developer": {
+    "requiredSkills": ["Node.js", "Express.js", "SQL", "APIs", "Git"]
+  },
+  "Frontend Developer": {
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React", "Git", "Next.js"]
+  },
+  "Full Stack Developer": {
+    "requiredSkills": ["Node.js", "Express.js", "MongoDB", "React", "REST APIs", "Git"]
+  },
+  "DevOps Engineer": {
+    "requiredSkills": ["Linux", "Docker", "Kubernetes", "AWS", "CI/CD", "Git"]
+  },
+  "Mobile App Developer": {
+    "requiredSkills": ["React Native", "Flutter", "Java/Kotlin", "APIs", "Firebase", "Git"]
+  }
+}
